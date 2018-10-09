@@ -2,6 +2,7 @@
   "name": "hackernews",
   "version": "0.1.0",
   "private": true,
+  "author": "Egorov Dmitriy <egorov-by-egorov@mail.ru> (https://github.com/egorov-by-egorov)",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
